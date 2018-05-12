@@ -1,0 +1,38 @@
+_repo: Morals-and-Dogma-of-the-Ancient-and-Accepted-Scottish-Rite-of-Freemasonry_19447
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pike, Albert
+    birthdate: 1809
+    deathdate: 1891
+    gutenberg_agent_id: '8681'
+    url: http://www.gutenberg.org/2009/agents/8681
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Pike
+description: "Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry,\
+  \ or simply Morals and Dogma, is a book of esoteric philosophy published by the\
+  \ Supreme Council, Thirty Third Degree, of the Scottish Rite, Southern Jurisdiction\
+  \ of the United States. It was compiled by Albert Pike, was first published in 1871\
+  \ and was regularly reprinted thereafter until 1969. An upgraded official reprint\
+  \ was released in 2011, with the benefit of annotations by Arturo de Hoyos, the\
+  \ Scottish Rite's Grand Archivist and Grand Historian.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19447'
+  wikidata: Q2076228
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Freemasons'
+- !lcc 'HS'
+title: Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry
+url: http://www.gutenberg.org/ebooks/19447
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B0%D0%BB%D1%8C_%D0%B8_%D0%B4%D0%BE%D0%B3%D0%BC%D0%B0_(%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)
+- https://en.wikipedia.org/wiki/Morals_and_Dogma_of_the_Ancient_and_Accepted_Scottish_Rite_of_Freemasonry
+- https://pt.wikipedia.org/wiki/Moral_e_Dogma
